@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+ייעוץ אסטרטגי לעמותות ולפילנתרופים שרוצים להשפיע לאמיתי. שרון שטיינבאום מחברת בין ארגונים חברתיים לבין תורמים עם חזון — לתוצאות שמשנות עולם.
+
+### שירותים
+https://example.com/services
+מפתחים אסטרטגיה, מגדירים מטרות ובונים תוכניות עבודה לעמותות ולתורמים. גלו את מגוון שירותי הייעוץ שיהפכו את החזון שלכם למציאות מדידה ובת-קיימא.
+
+### אודות
+https://example.com/about
+שרון שטיינבאום היא יועצת אסטרטגית עם ניסיון בינלאומי בעבודה עם עמותות ופילנתרופים. הכירו את הגישה, הערכים והדרך שהפכו עשרות ארגונים לכוח משמעותי יותר בעולם.
+
+### צור קשר
+https://example.com/contact
+צרו קשר עם שרון שטיינבאום ותתחילו לבנות אסטרטגיה שמניעה שינוי. ייעוץ לעמותות ולפילנתרופים בישראל ובעולם — כי כל שיחה ראשונה היא תחילתה של השפעה אמיתית.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
